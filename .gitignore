@@ -12,3 +12,8 @@
 # Checkpoints #
 ###############
 .ipynb_checkpoints
+
+
+# Old Content #
+###############
+nyc_trip_duration.ipynb
